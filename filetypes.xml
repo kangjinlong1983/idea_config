@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="错误" type="PLAIN_TEXT" />
       <mapping pattern="create_sql" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="2017-07-31" type="PLAIN_TEXT" />
     </extensionMap>
