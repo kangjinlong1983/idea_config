@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="错误" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="create_sql" type="PLAIN_TEXT" />
+      <mapping pattern="错误" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="2017-07-31" type="PLAIN_TEXT" />
